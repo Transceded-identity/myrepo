@@ -1,4 +1,8 @@
 hemlo sir
 how to change a file
+HEAD
 checking sublime
+=======
+checking out master
+demomaster
 
